@@ -1,0 +1,17 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "A lightweight database solution for small-scale applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "liamkande@icloud.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.6.2"
+  }
+}
